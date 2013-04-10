@@ -1,0 +1,104 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+1TONG                   BITMAP                  "images\\1tong.bmp"
+2TONG                   BITMAP                  "images\\2tong.bmp"
+3TONG                   BITMAP                  "images\\3tong.bmp"
+5TONG                   BITMAP                  "images\\5tong.bmp"
+6TONG                   BITMAP                  "images\\6tong.bmp"
+7TONG                   BITMAP                  "images\\7tong.bmp"
+8TONG                   BITMAP                  "images\\8tong.bmp"
+9TONG                   BITMAP                  "images\\9tong.bmp"
+4TONG                   BITMAP                  "images\\4tong.bmp"
+ZHONG                   BITMAP                  "images\\zhong.bmp"
+1TIAO                   BITMAP                  "images\\1tiao.bmp"
+1WAN                    BITMAP                  "images\\1wan.bmp"
+2TIAO                   BITMAP                  "images\\2tiao.bmp"
+2WAN                    BITMAP                  "images\\2wan.bmp"
+3TIAO                   BITMAP                  "images\\3tiao.bmp"
+3WAN                    BITMAP                  "images\\3wan.bmp"
+4TIAO                   BITMAP                  "images\\4tiao.bmp"
+4WAN                    BITMAP                  "images\\4wan.bmp"
+5TIAO                   BITMAP                  "images\\5tiao.bmp"
+5WAN                    BITMAP                  "images\\5wan.bmp"
+6TIAO                   BITMAP                  "images\\6tiao.bmp"
+6WAN                    BITMAP                  "images\\6wan.bmp"
+7TIAO                   BITMAP                  "images\\7tiao.bmp"
+7WAN                    BITMAP                  "images\\7wan.bmp"
+8TIAO                   BITMAP                  "images\\8tiao.bmp"
+8WAN                    BITMAP                  "images\\8wan.bmp"
+9TIAO                   BITMAP                  "images\\9tiao.bmp"
+9WAN                    BITMAP                  "images\\9wan.bmp"
+BAI                     BITMAP                  "images\\bai.bmp"
+BEIFENG                 BITMAP                  "images\\beifeng.bmp"
+DONGFENG                BITMAP                  "images\\dongfeng.bmp"
+FA                      BITMAP                  "images\\fa.bmp"
+NANFENG                 BITMAP                  "images\\nanfeng.bmp"
+XIFENG                  BITMAP                  "images\\xifeng.bmp"
+black                   BITMAP                  "images\\2012.bmp"
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
